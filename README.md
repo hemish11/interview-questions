@@ -89,14 +89,14 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
 1. **What is the decimal equivalent of the fraction \( \frac{3}{5} \)?**
 
-   a) **0.6**  
+   a) **0.6 (ANSWER)**  
    b) 0.65  
    c) 0.7  
    d) 0.75
 
 2. **Simplify: \( -8 + 15 - (-7) \).**
 
-   a) **14**  
+   a) **14 (ANSWER)**  
    b) -14  
    c) 20  
    d) -20
@@ -105,20 +105,20 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) -3  
    b) 7  
-   c) **\( \frac{5}{4} \)**  
+   c) **\( \frac{5}{4} \) (ANSWER)**  
    d) 0
 
 4. **What is \( 0.4 \times 0.25 \)?**
 
    a) 0.05  
-   b) **0.1**  
+   b) **0.1 (ANSWER)**  
    c) 0.15  
    d) 0.2
 
 5. **Add \( 2.5 \) and \( 3.75 \).**
 
    a) 5  
-   b) **6.25**  
+   b) **6.25 (ANSWER)**  
    c) 5.75  
    d) 6
 
@@ -129,14 +129,14 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **Which of the following numbers is divisible by 6?**
 
    a) 123  
-   b) **138**  
+   b) **138 (ANSWER)**  
    c) 145  
    d) 157
 
 2. **A number is divisible by 15 if it is divisible by both 3 and which other number?**
 
    a) 4  
-   b) **5**  
+   b) **5 (ANSWER)**  
    c) 6  
    d) 9
 
@@ -144,19 +144,19 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) 42  
    b) 48  
-   c) **56**  
+   c) **56 (ANSWER)**  
    d) 64
 
 4. **Which of the following numbers is divisible by 8?**
 
    a) 1232  
-   b) **1024**  
+   b) **1024 (ANSWER)**  
    c) 2345  
    d) 6789
 
 5. **If the last two digits of a number are divisible by 4, then the number is divisible by which number?**
 
-   a) **4**  
+   a) **4 (ANSWER)**  
    b) 5  
    c) 6  
    d) 7
@@ -168,7 +168,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **Find the HCF of 18 and 24.**
 
    a) 6  
-   b) **6**  
+   b) **6 (ANSWER)**  
    c) 8  
    d) 12
 
@@ -176,27 +176,27 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) 12  
    b) 16  
-   c) **24**  
+   c) **24 (ANSWER)**  
    d) 48
 
 3. **What is the greatest number that divides 42 and 70 leaving no remainder?**
 
    a) 7  
-   b) **14**  
+   b) **14 (ANSWER)**  
    c) 21  
    d) 28
 
 4. **Find the smallest number which when divided by 9, 12, and 15 leaves no remainder.**
 
    a) 45  
-   b) **180**  
+   b) **180 (ANSWER)**  
    c) 90  
    d) 120
 
 5. **The HCF and LCM of two numbers are 5 and 60, respectively. If one number is 15, find the other number.**
 
    a) 15  
-   b) **20**  
+   b) **20 (ANSWER)**  
    c) 25  
    d) 30
 
@@ -209,13 +209,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **What is 15% of 200?**
 
    a) 25  
-   b) **30**  
+   b) **30 (ANSWER)**  
    c) 35  
    d) 40
 
 2. **If a number is decreased by 20%, what is the new number if the original was 150?**
 
-   a) **120**  
+   a) **120 (ANSWER)**  
    b) 130  
    c) 140  
    d) 150
@@ -223,13 +223,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 3. **Express 0.85 as a percentage.**
 
    a) 65%  
-   b) **85%**  
+   b) **85% (ANSWER)**  
    c) 95%  
    d) 100%
 
 4. **A product is sold for $180 after a 10% discount. What was the original price?**
 
-   a) **$200**  
+   a) **$200 (ANSWER)**  
    b) $190  
    c) $210  
    d) $220
@@ -237,7 +237,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 5. **If 75% of a class are boys and there are 30 boys, how many students are in the class?**
 
    a) 35  
-   b) **40**  
+   b) **40 (ANSWER)**  
    c) 45  
    d) 50
 
@@ -248,13 +248,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **A shopkeeper buys an item for $150 and sells it for $180. What is the profit percentage?**
 
    a) 15%  
-   b) **20%**  
+   b) **20% (ANSWER)**  
    c) 25%  
    d) 30%
 
 2. **If an article is sold at a loss of 15% for $85, what was the cost price?**
 
-   a) **$100**  
+   a) **$100 (ANSWER)**  
    b) $90  
    c) $95  
    d) $105
@@ -262,13 +262,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 3. **An item is sold for $200, making a profit of 20%. What was the cost price?**
 
    a) $150  
-   b) **$166.67**  
+   b) **$166.67 (ANSWER)**  
    c) $170  
    d) $180
 
 4. **If the cost price is $50 and the selling price is $45, what is the loss percentage?**
 
-   a) **10%**  
+   a) **10% (ANSWER)**  
    b) 12%  
    c) 8%  
    d) 5%
@@ -276,7 +276,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 5. **A trader marks his goods 25% above the cost price and allows a discount of 15%. Find his profit percentage.**
 
    a) 5%  
-   b) **6.25%**  
+   b) **6.25% (ANSWER)**  
    c) 7.5%  
    d) 10%
 
@@ -287,7 +287,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **Find the simple interest on $2,000 at an annual rate of 8% for 3 years.**
 
    a) $480  
-   b) **$480**  
+   b) **$480 (ANSWER)**  
    c) $500  
    d) $520
 
@@ -295,13 +295,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) $150  
    b) $152.50  
-   c) **$153.75**  
+   c) **$153.75 (ANSWER)**  
    d) $155
 
 3. **At what rate of interest will $600 amount to $720 in 2 years at simple interest?**
 
    a) 8%  
-   b) **10%**  
+   b) **10% (ANSWER)**  
    c) 12%  
    d) 15%
 
@@ -309,13 +309,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) $1,200  
    b) $1,224  
-   c) **$1,254.40**  
+   c) **$1,254.40 (ANSWER)**  
    d) $1,280
 
 5. **If the simple interest on a sum for 4 years at 6% per annum is $240, find the sum.**
 
    a) $800  
-   b) **$1,000**  
+   b) **$1,000 (ANSWER)**  
    c) $1,200  
    d) $1,400
 
@@ -326,35 +326,35 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **Simplify the ratio 45:60.**
 
    a) 2:3  
-   b) **3:4**  
+   b) **3:4 (ANSWER)**  
    c) 4:5  
    d) 5:6
 
 2. **If \( x:y = 4:5 \) and \( y:z = 6:7 \), find \( x:z \).**
 
    a) 24:35  
-   b) **24:35**  
+   b) **24:35 (ANSWER)**  
    c) 20:21  
    d) 18:19
 
 3. **Divide $800 between A and B in the ratio 3:5. How much does A get?**
 
    a) $200  
-   b) **$300**  
+   b) **$300 (ANSWER)**  
    c) $400  
    d) $500
 
 4. **If 6 pencils cost $9, how much do 8 pencils cost?**
 
    a) $10  
-   b) **$12**  
+   b) **$12 (ANSWER)**  
    c) $14  
    d) $16
 
 5. **The ratio of ages of two friends is 5:7. If the sum of their ages is 48, find the age of the older friend.**
 
    a) 20  
-   b) **28**  
+   b) **28 (ANSWER)**  
    c) 30  
    d) 32
 
@@ -365,35 +365,35 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **Find the average of 5, 15, 25, 35, and 45.**
 
    a) 20  
-   b) **25**  
+   b) **25 (ANSWER)**  
    c) 30  
    d) 35
 
 2. **The average of five numbers is 14. If one number is excluded, the average becomes 12. Find the excluded number.**
 
    a) 18  
-   b) **22**  
+   b) **22 (ANSWER)**  
    c) 24  
    d) 26
 
 3. **A student scored marks in five subjects: 80, 85, 90, 95, and 100. What is the average score?**
 
    a) 88  
-   b) **90**  
+   b) **90 (ANSWER)**  
    c) 92  
    d) 94
 
 4. **The average weight of 5 children is 30 kg. A new child joins them, and the average becomes 32 kg. What is the weight of the new child?**
 
    a) 32 kg  
-   b) **42 kg**  
+   b) **42 kg (ANSWER)**  
    c) 35 kg  
    d) 38 kg
 
 5. **Find the average of the first 20 natural numbers.**
 
    a) 10  
-   b) **10.5**  
+   b) **10.5 (ANSWER)**  
    c) 11  
    d) 11.5
 
@@ -403,7 +403,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
 1. **In what ratio must water be mixed with milk costing $15 per liter to get a mixture worth $10 per liter?**
 
-   a) **1:2**  
+   a) **1:2 (ANSWER)**  
    b) 1:1  
    c) 2:1  
    d) 3:1
@@ -411,27 +411,27 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 2. **A mixture contains alcohol and water in the ratio 4:1. If 15 liters of water is added, the new ratio becomes 2:1. Find the quantity of alcohol in the original mixture.**
 
    a) 20 liters  
-   b) **30 liters**  
+   b) **30 liters (ANSWER)**  
    c) 40 liters  
    d) 50 liters
 
 3. **How much sugar at $10 per kg should be mixed with 30 kg of sugar at $20 per kg to get a mixture worth $15 per kg?**
 
    a) 20 kg  
-   b) **30 kg**  
+   b) **30 kg (ANSWER)**  
    c) 40 kg  
    d) 50 kg
 
 4. **Two alloys contain copper and zinc in the ratios 5:3 and 2:1. If equal quantities of the alloys are mixed, what is the ratio of copper to zinc in the mixture?**
 
    a) 7:4  
-   b) **12:7**  
+   b) **12:7 (ANSWER)**  
    c) 5:3  
    d) 2:1
 
 5. **In what ratio should rice at $4 per kg be mixed with rice at $6 per kg to get a mixture worth $5 per kg?**
 
-   a) **1:1**  
+   a) **1:1 (ANSWER)**  
    b) 1:2  
    c) 2:1  
    d) 3:2
@@ -443,20 +443,20 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **A and B invest $6,000 and $9,000 respectively in a business. What is B's share of a $6,000 profit?**
 
    a) $2,000  
-   b) **$4,000**  
+   b) **$4,000 (ANSWER)**  
    c) $3,000  
    d) $5,000
 
 2. **Three partners A, B, and C invest $20,000, $30,000, and $50,000 respectively. If they earn a profit of $10,000, what is B's share?**
 
    a) $2,000  
-   b) **$3,000**  
+   b) **$3,000 (ANSWER)**  
    c) $4,000  
    d) $5,000
 
 3. **A starts a business with $10,000. After 6 months, B joins with $15,000. At the end of the year, what is A's share of an $8,000 profit?**
 
-   a) **$4,000**  
+   a) **$4,000 (ANSWER)**  
    b) $3,500  
    c) $4,500  
    d) $5,000
@@ -464,14 +464,14 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 4. **P and Q invest in a business in the ratio 2:3. If the total profit is $5,000, what is P's share?**
 
    a) $2,000  
-   b) **$2,000**  
+   b) **$2,000 (ANSWER)**  
    c) $3,000  
    d) $2,500
 
 5. **A invests $3,000 and B invests $4,500 in a business. After 6 months, A invests an additional $1,000. If the total profit after a year is $7,000, what is B's share?**
 
    a) $3,500  
-   b) **$4,000**  
+   b) **$4,000 (ANSWER)**  
    c) $3,000  
    d) $2,500
 
@@ -481,21 +481,21 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
 1. **If A can complete a task in 8 days and B can complete it in 12 days, how long will they take working together?**
 
-   a) **4.8 days**  
+   a) **4.8 days (ANSWER)**  
    b) 5 days  
    c) 6 days  
    d) 7 days
 
 2. **C can complete a job in 15 days, and D can complete the same job in 10 days. If C and D work together for 4 days, how much of the job is left?**
 
-   a) **1/2**  
+   a) **1/2 (ANSWER)**  
    b) 1/3  
    c) 1/4  
    d) 1/5
 
 3. **A and B can do a piece of work in 18 days. B alone can do it in 27 days. In how many days can A alone do it?**
 
-   a) **54 days**  
+   a) **54 days (ANSWER)**  
    b) 45 days  
    c) 36 days  
    d) 30 days
@@ -503,13 +503,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 4. **If 8 workers can build a wall in 16 days, how many workers are needed to build it in 8 days?**
 
    a) 8 workers  
-   b) **16 workers**  
+   b) **16 workers (ANSWER)**  
    c) 12 workers  
    d) 10 workers
 
 5. **A can finish a task in 9 days, B in 18 days, and C in 6 days. How long will they take to finish the task working together?**
 
-   a) **3 days**  
+   a) **3 days (ANSWER)**  
    b) 4 days  
    c) 5 days  
    d) 6 days
@@ -521,20 +521,20 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **If a car travels at 80 km/h, how long will it take to cover 240 km?**
 
    a) 2 hours  
-   b) **3 hours**  
+   b) **3 hours (ANSWER)**  
    c) 4 hours  
    d) 5 hours
 
 2. **A train 150 meters long passes a pole in 15 seconds. What is the speed of the train in km/h?**
 
    a) 36 km/h  
-   b) **36 km/h**  
+   b) **36 km/h (ANSWER)**  
    c) 40 km/h  
    d) 45 km/h
 
 3. **If a person walks at 4 km/h instead of 3 km/h, he reaches his destination 20 minutes early. What is the distance to his destination?**
 
-   a) **4 km**  
+   a) **4 km (ANSWER)**  
    b) 6 km  
    c) 8 km  
    d) 10 km
@@ -542,14 +542,14 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 4. **Two trains are moving in the same direction at speeds of 50 km/h and 30 km/h. If the faster train passes the slower one in 60 seconds, what is the length of the faster train?**
 
    a) 333 meters  
-   b) **333 meters**  
+   b) **333 meters (ANSWER)**  
    c) 500 meters  
    d) 600 meters
 
 5. **A cyclist covers a distance of 21 km in 3 hours. What is his speed in km/h?**
 
    a) 5 km/h  
-   b) **7 km/h**  
+   b) **7 km/h (ANSWER)**  
    c) 9 km/h  
    d) 11 km/h
 
@@ -560,34 +560,34 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **The sum of the ages of a mother and her daughter is 50 years. If the mother is three times as old as her daughter, how old is the daughter?**
 
    a) 10 years  
-   b) **12.5 years**  
+   b) **12.5 years (ANSWER)**  
    c) 15 years  
    d) 17.5 years
 
 2. **Ten years ago, John's age was double that of his son's age. Ten years hence, the father's age will be 1.5 times his son's age. Find the present age of the son.**
 
    a) 20 years  
-   b) **30 years**  
+   b) **30 years (ANSWER)**  
    c) 40 years  
    d) 50 years
 
 3. **Mary is three times as old as Ann. Five years ago, Mary was four times as old as Ann. How old is Ann now?**
 
    a) 10 years  
-   b) **15 years**  
+   b) **15 years (ANSWER)**  
    c) 20 years  
    d) 25 years
 
 4. **The present age of a father is twice that of his son. After 20 years, the father's age will be 1.5 times the son's age. Find the son's present age.**
 
-   a) **20 years**  
+   a) **20 years (ANSWER)**  
    b) 25 years  
    c) 30 years  
    d) 35 years
 
 5. **The ages of A and B are in the ratio 5:3. After 10 years, the ratio of their ages will be 7:5. Find the present age of B.**
 
-   a) **15 years**  
+   a) **15 years (ANSWER)**  
    b) 18 years  
    c) 20 years  
    d) 25 years
@@ -599,13 +599,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **Pipe A can fill a tank in 4 hours, and Pipe B can fill it in 6 hours. How long will it take to fill the tank if both pipes are opened together?**
 
    a) 2 hours  
-   b) **2 hours 24 minutes**  
+   b) **2 hours 24 minutes (ANSWER)**  
    c) 3 hours  
    d) 3 hours 30 minutes
 
 2. **A cistern has a leak which would empty it in 8 hours. A tap is turned on which admits 6 liters per hour into the cistern, and now it is emptied in 12 hours. How many liters does the cistern hold?**
 
-   a) **288 liters**  
+   a) **288 liters (ANSWER)**  
    b) 360 liters  
    c) 480 liters  
    d) 600 liters
@@ -613,21 +613,21 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 3. **Pipes A and B can fill a tank in 10 and 15 hours respectively. Pipe C can empty it in 5 hours. If all three pipes are opened together, how long will it take to empty the tank?**
 
    a) 10 hours  
-   b) **Not possible to fill**  
+   b) **Not possible to fill (ANSWER)**  
    c) 20 hours  
    d) 30 hours
 
 4. **A pipe can fill a tank in 3 hours. Due to a leak at the bottom, it takes 4 hours to fill the tank. How long will the leak take to empty a full tank?**
 
    a) 6 hours  
-   b) **12 hours**  
+   b) **12 hours (ANSWER)**  
    c) 9 hours  
    d) 15 hours
 
 5. **Two pipes A and B can fill a tank in 16 minutes and 24 minutes respectively. If both pipes are opened together, how much time will they take to fill 75% of the tank?**
 
    a) 6 minutes  
-   b) **9 minutes**  
+   b) **9 minutes (ANSWER)**  
    c) 12 minutes  
    d) 15 minutes
 
@@ -638,13 +638,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **A boat can travel at 12 km/h in still water. If the speed of the stream is 3 km/h, what is the boat's speed upstream?**
 
    a) 9 km/h  
-   b) **9 km/h**  
+   b) **9 km/h (ANSWER)**  
    c) 12 km/h  
    d) 15 km/h
 
 2. **A man rows upstream at 5 km/h and downstream at 9 km/h. What is the speed of the man in still water?**
 
-   a) **7 km/h**  
+   a) **7 km/h (ANSWER)**  
    b) 6 km/h  
    c) 5 km/h  
    d) 8 km/h
@@ -652,21 +652,21 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 3. **If it takes a boat 3 hours to travel 18 km upstream and the same time to travel 30 km downstream, what is the speed of the current?**
 
    a) 1 km/h  
-   b) **2 km/h**  
+   b) **2 km/h (ANSWER)**  
    c) 3 km/h  
    d) 4 km/h
 
 4. **A boat covers 24 km upstream in 4 hours. The return journey downstream takes 2 hours. Find the speed of the boat in still water.**
 
    a) 6 km/h  
-   b) **8 km/h**  
+   b) **8 km/h (ANSWER)**  
    c) 10 km/h  
    d) 12 km/h
 
 5. **The speed of a boat in still water is 20 km/h. If the river flows at 4 km/h, how long will it take to travel 48 km downstream?**
 
    a) 2 hours  
-   b) **2 hours**  
+   b) **2 hours (ANSWER)**  
    c) 3 hours  
    d) 4 hours
 
@@ -677,20 +677,20 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **If March 1, 2022, was a Tuesday, what day of the week was March 1, 2023?**
 
    a) Tuesday  
-   b) **Wednesday**  
+   b) **Wednesday (ANSWER)**  
    c) Thursday  
    d) Friday
 
 2. **How many times do the hands of a clock form a right angle in a 12-hour period?**
 
-   a) **22**  
+   a) **22 (ANSWER)**  
    b) 24  
    c) 44  
    d) 48
 
 3. **What angle is formed between the hands of a clock at 2:20 PM?**
 
-   a) **50 degrees**  
+   a) **50 degrees (ANSWER)**  
    b) 60 degrees  
    c) 70 degrees  
    d) 80 degrees
@@ -698,14 +698,14 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 4. **If today is Sunday, what day will it be 100 days from now?**
 
    a) Tuesday  
-   b) **Wednesday**  
+   b) **Wednesday (ANSWER)**  
    c) Thursday  
    d) Friday
 
 5. **A clock loses 1 minute every hour. If the clock shows 12:00 PM now, what will be the actual time when the clock shows 6:00 PM?**
 
    a) 6:06 PM  
-   b) **6:06 PM**  
+   b) **6:06 PM (ANSWER)**  
    c) 5:54 PM  
    d) 5:53 PM
 
@@ -716,35 +716,35 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **In a 200-meter race, A beats B by 20 meters. If B runs at 8 m/s, what is A's speed?**
 
    a) 8 m/s  
-   b) **8.89 m/s**  
+   b) **8.89 m/s (ANSWER)**  
    c) 9 m/s  
    d) 10 m/s
 
 2. **A can give B a start of 10 meters in a 100-meter race and still beat him by 2 seconds. If A runs at 10 m/s, what is B's speed?**
 
    a) 8 m/s  
-   b) **9 m/s**  
+   b) **9 m/s (ANSWER)**  
    c) 7 m/s  
    d) 6 m/s
 
 3. **In a game of 50 points, A can give B 10 points, and A can give C 20 points. How many points can B give C in a game of 50?**
 
    a) 8 points  
-   b) **11 points**  
+   b) **11 points (ANSWER)**  
    c) 13 points  
    d) 15 points
 
 4. **A and B run a 500-meter race. A beats B by 50 meters. If A runs at 10 m/s, how long does B take to finish the race?**
 
    a) 50 seconds  
-   b) **55.56 seconds**  
+   b) **55.56 seconds (ANSWER)**  
    c) 45 seconds  
    d) 60 seconds
 
 5. **In a 400-meter race, C beats D by 40 meters, and D beats E by 20 meters. By how many meters does C beat E?**
 
    a) 60 meters  
-   b) **64 meters**  
+   b) **64 meters (ANSWER)**  
    c) 80 meters  
    d) 72 meters
 
@@ -761,33 +761,33 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
    a) Write  
    b) Ink  
    c) Paper  
-   d) **Draw**
+   d) **Draw (ANSWER)**
 
 2. **Dog : Bark :: Cat : ?**
 
    a) Meow  
    b) Purr  
-   c) **Meow**  
+   c) **Meow (ANSWER)**  
    d) Hiss
 
 3. **Bird : Fly :: Fish : ?**
 
    a) Dive  
-   b) **Swim**  
+   b) **Swim (ANSWER)**  
    c) Crawl  
    d) Run
 
 4. **Eye : See :: Ear : ?**
 
    a) Hear  
-   b) **Hear**  
+   b) **Hear (ANSWER)**  
    c) Taste  
    d) Smell
 
 5. **Cold : Winter :: Hot : ?**
 
    a) Autumn  
-   b) **Summer**  
+   b) **Summer (ANSWER)**  
    c) Spring  
    d) Rain
 
@@ -800,35 +800,35 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
    a) Apple  
    b) Orange  
    c) Banana  
-   d) **Carrot**
+   d) **Carrot (ANSWER)**
 
 2. **Find the odd one out:**
 
    a) Circle  
    b) Square  
    c) Triangle  
-   d) **Cube**
+   d) **Cube (ANSWER)**
 
 3. **Find the odd one out:**
 
    a) Dog  
    b) Cat  
    c) Cow  
-   d) **Bird**
+   d) **Bird (ANSWER)**
 
 4. **Find the odd one out:**
 
    a) 2  
    b) 3  
    c) 5  
-   d) **9**
+   d) **9 (ANSWER)**
 
 5. **Find the odd one out:**
 
    a) Oxygen  
    b) Hydrogen  
    c) Nitrogen  
-   d) **Steel**
+   d) **Steel (ANSWER)**
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -837,21 +837,21 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **If in a certain code, 'DOG' is coded as '23', 'CAT' is coded as '24', how is 'BAT' coded?**
 
    a) 21  
-   b) **22**  
+   b) **22 (ANSWER)**  
    c) 23  
    d) 24
 
 2. **In a code language, 'APPLE' is written as 'ELPPA'. How is 'ORANGE' written in that code?**
 
    a) EGNARO  
-   b) **EGNARO**  
+   b) **EGNARO (ANSWER)**  
    c) EGNRAO  
    d) EGNRAO
 
 3. **If 'MANGO' is coded as 'NBNHP', how is 'APPLE' coded?**
 
    a) BQQMF  
-   b) **BQQMF**  
+   b) **BQQMF (ANSWER)**  
    c) BPPLE  
    d) AQQLF
 
@@ -859,13 +859,13 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) 1  
    b) 4  
-   c) **5**  
+   c) **5 (ANSWER)**  
    d) Cannot be determined
 
 5. **If 'BLUE' is coded as 'ELOB', how is 'GREEN' coded?**
 
    a) NEERG  
-   b) **NEERG**  
+   b) **NEERG (ANSWER)**  
    c) NEEGR  
    d) NEEGR
 
@@ -876,14 +876,14 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **Pointing to a photograph, a man says, "She is the daughter of my grandfather's only son." How is the man related to the girl in the photograph?**
 
    a) Father  
-   b) **Brother**  
+   b) **Brother (ANSWER)**  
    c) Cousin  
    d) Uncle
 
 2. **If A is the brother of B, B is the sister of C, and C is the mother of D, what is the relation of A to D?**
 
    a) Uncle  
-   b) **Uncle**  
+   b) **Uncle (ANSWER)**  
    c) Brother  
    d) Father
 
@@ -892,19 +892,19 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
    a) Sister  
    b) Mother  
    c) Daughter-in-law  
-   d) **Sister-in-law**
+   d) **Sister-in-law (ANSWER)**
 
 4. **If P is the mother of Q and R, and S is the husband of P, what is R's relation to S?**
 
    a) Son  
-   b) **Daughter**  
+   b) **Daughter (ANSWER)**  
    c) Niece  
    d) Nephew
 
 5. **Pointing to a lady, John says, "She is the daughter-in-law of my mother's only son." How is the lady related to John?**
 
    a) Sister  
-   b) **Daughter**  
+   b) **Daughter (ANSWER)**  
    c) Niece  
    d) Wife
 
@@ -915,20 +915,20 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 1. **A man walks 5 km north, then turns right and walks 3 km. He then turns right and walks 5 km. How far is he from the starting point?**
 
    a) 2 km  
-   b) **3 km**  
+   b) **3 km (ANSWER)**  
    c) 5 km  
    d) 8 km
 
 2. **If you are facing east and turn 90 degrees clockwise, which direction are you facing now?**
 
    a) North  
-   b) **South**  
+   b) **South (ANSWER)**  
    c) West  
    d) East
 
 3. **A person walks 10 km towards the south, then turns left and walks 5 km. He again turns left and walks 10 km. How far is he from the starting point?**
 
-   a) **5 km**  
+   a) **5 km (ANSWER)**  
    b) 10 km  
    c) 15 km  
    d) 20 km
@@ -936,14 +936,14 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 4. **Peter starts from his house and walks 3 km east, then 4 km north, and finally 5 km west. How far is he from his house now?**
 
    a) 2 km  
-   b) **4 km**  
+   b) **4 km (ANSWER)**  
    c) 5 km  
    d) 7 km
 
 5. **If South-East becomes North, what does North-East become?**
 
    a) East  
-   b) **West**  
+   b) **West (ANSWER)**  
    c) North  
    d) South
 
@@ -965,7 +965,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) Only conclusion (a) follows  
    b) Only conclusion (b) follows  
-   c) **Both conclusions follow**  
+   c) **Both conclusions follow (ANSWER)**  
    d) Neither conclusion follows
 
 2. **Statements:**
@@ -981,7 +981,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
    **Choose the correct conclusion:**
 
    a) Only conclusion (a) follows  
-   b) **Only conclusion (a) follows**  
+   b) **Only conclusion (a) follows (ANSWER)**  
    c) Both conclusions follow  
    d) Neither conclusion follows
 
@@ -999,7 +999,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) Only conclusion (a) follows  
    b) Only conclusion (b) follows  
-   c) **Both conclusions follow**  
+   c) **Both conclusions follow (ANSWER)**  
    d) Neither conclusion follows
 
 4. **Statements:**
@@ -1017,7 +1017,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
    a) Only conclusion (a) follows  
    b) Only conclusion (b) follows  
    c) Both conclusions follow  
-   d) **Neither conclusion follows**
+   d) **Neither conclusion follows (ANSWER)**
 
 5. **Statements:**
 
@@ -1033,7 +1033,7 @@ Itna zyada English ki nhi zarur abhi koi interview nhi de rha... Ha toh mei Hemi
 
    a) Only conclusion (a) follows  
    b) Only conclusion (b) follows  
-   c) **Neither conclusion follows**  
+   c) **Neither conclusion follows (ANSWER)**  
    d) Both conclusions follow
 
 [Back to Table of Contents](#table-of-contents)
@@ -1059,35 +1059,35 @@ _Note: These questions require visual diagrams to practice effectively._
 1. **Five friends A, B, C, D, and E are sitting in a row facing north. D is to the immediate right of C. B is at one end of the row. E is between B and C. Who is sitting in the middle?**
 
    a) A  
-   b) **C**  
+   b) **C (ANSWER)**  
    c) D  
    d) E
 
 2. **Six people are sitting around a circular table. A is sitting opposite B. C is to the immediate left of B. Who is sitting opposite C?**
 
    a) A  
-   b) **D**  
+   b) **D (ANSWER)**  
    c) E  
    d) F
 
 3. **In a row of students, John is 10th from the left and Mary is 15th from the right. If there are 5 students between them, how many students are there in total?**
 
    a) 25  
-   b) **30**  
+   b) **30 (ANSWER)**  
    c) 28  
    d) 32
 
 4. **Seven friends are sitting in a row. P is between M and T. S is to the immediate left of T. R is at one end of the row. Who is sitting in the middle?**
 
    a) P  
-   b) **T**  
+   b) **T (ANSWER)**  
    c) S  
    d) M
 
 5. **Eight people are sitting around a square table, two on each side. A is sitting to the immediate left of B. C is sitting opposite A. Who is sitting to the immediate right of C?**
 
    a) D  
-   b) **E**  
+   b) **E (ANSWER)**  
    c) F  
    d) G
 
@@ -1104,7 +1104,7 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) Statement 1 alone is sufficient  
    b) Statement 2 alone is sufficient  
-   c) **Both statements together are sufficient**  
+   c) **Both statements together are sufficient (ANSWER)**  
    d) Neither statement is sufficient
 
 2. **Question:** What is the value of \( x + y \)?
@@ -1116,7 +1116,7 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) Statement 1 alone is sufficient  
    b) Statement 2 alone is sufficient  
-   c) **Both statements together are sufficient**  
+   c) **Both statements together are sufficient (ANSWER)**  
    d) Neither statement is sufficient
 
 3. **Question:** Is number N divisible by 6?
@@ -1128,7 +1128,7 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) Statement 1 alone is sufficient  
    b) Statement 2 alone is sufficient  
-   c) **Both statements together are sufficient**  
+   c) **Both statements together are sufficient (ANSWER)**  
    d) Neither statement is sufficient
 
 4. **Question:** What is the area of rectangle R?
@@ -1140,7 +1140,7 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) Statement 1 alone is sufficient  
    b) Statement 2 alone is sufficient  
-   c) **Both statements together are sufficient**  
+   c) **Both statements together are sufficient (ANSWER)**  
    d) Neither statement is sufficient
 
 5. **Question:** Is \( x \) an even number?
@@ -1152,7 +1152,7 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) Statement 1 alone is sufficient  
    b) Statement 2 alone is sufficient  
-   c) **Either statement alone is sufficient**  
+   c) **Either statement alone is sufficient (ANSWER)**  
    d) Neither statement is sufficient
 
 [Back to Table of Contents](#table-of-contents)
@@ -1166,21 +1166,21 @@ _Note: These questions require visual diagrams to practice effectively._
 1. **Choose the synonym of 'Abundant':**
 
    a) Scarce  
-   b) **Plentiful**  
+   b) **Plentiful (ANSWER)**  
    c) Empty  
    d) Small
 
 2. **Choose the antonym of 'Optimistic':**
 
    a) Hopeful  
-   b) **Pessimistic**  
+   b) **Pessimistic (ANSWER)**  
    c) Positive  
    d) Cheerful
 
 3. **Choose the synonym of 'Obsolete':**
 
    a) Modern  
-   b) **Outdated**  
+   b) **Outdated (ANSWER)**  
    c) New  
    d) Current
 
@@ -1188,13 +1188,13 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) Weak  
    b) Brittle  
-   c) **Strong**  
+   c) **Strong (ANSWER)**  
    d) Delicate
 
 5. **Choose the synonym of 'Candid':**
 
    a) Secretive  
-   b) **Honest**  
+   b) **Honest (ANSWER)**  
    c) Deceptive  
    d) Reserved
 
@@ -1205,35 +1205,35 @@ _Note: These questions require visual diagrams to practice effectively._
 1. **What does the idiom 'Break the ice' mean?**
 
    a) To start a fight  
-   b) **To initiate a conversation**  
+   b) **To initiate a conversation (ANSWER)**  
    c) To cool down  
    d) To break something
 
 2. **What does the phrase 'Spill the beans' mean?**
 
    a) Waste food  
-   b) **Reveal a secret**  
+   b) **Reveal a secret (ANSWER)**  
    c) Cook dinner  
    d) Clean up
 
 3. **What does the idiom 'Hit the sack' mean?**
 
    a) Go shopping  
-   b) **Go to sleep**  
+   b) **Go to sleep (ANSWER)**  
    c) Start working  
    d) Play sports
 
 4. **What does the phrase 'Once in a blue moon' mean?**
 
    a) Frequently  
-   b) **Rarely**  
+   b) **Rarely (ANSWER)**  
    c) Never  
    d) Always
 
 5. **What does the idiom 'Piece of cake' mean?**
 
    a) A dessert  
-   b) **Something easy**  
+   b) **Something easy (ANSWER)**  
    c) A puzzle  
    d) Something difficult
 
@@ -1246,35 +1246,35 @@ _Note: These questions require visual diagrams to practice effectively._
 1. **Choose the correct sentence:**
 
    a) The list of items are on the desk.  
-   b) **The list of items is on the desk.**  
+   b) **The list of items is on the desk. (ANSWER)**  
    c) The list of items were on the desk.  
    d) The list of items being on the desk.
 
 2. **Choose the correct sentence:**
 
    a) Neither the teacher nor the students was present.  
-   b) **Neither the teacher nor the students were present.**  
+   b) **Neither the teacher nor the students were present. (ANSWER)**  
    c) Neither the teacher nor the students is present.  
    d) Neither the teacher nor the students has been present.
 
 3. **Choose the correct sentence:**
 
    a) Each of the players are ready.  
-   b) **Each of the players is ready.**  
+   b) **Each of the players is ready. (ANSWER)**  
    c) Each of the players were ready.  
    d) Each of the players being ready.
 
 4. **Choose the correct sentence:**
 
    a) The committee have made their decision.  
-   b) **The committee has made its decision.**  
+   b) **The committee has made its decision. (ANSWER)**  
    c) The committee have made its decision.  
    d) The committee has made their decision.
 
 5. **Choose the correct sentence:**
 
    a) Mathematics are my favorite subject.  
-   b) **Mathematics is my favorite subject.**  
+   b) **Mathematics is my favorite subject. (ANSWER)**  
    c) Mathematics were my favorite subject.  
    d) Mathematics being my favorite subject.
 
@@ -1287,7 +1287,7 @@ _Note: These questions require visual diagrams to practice effectively._
    "She **don't** like to watch horror movies."
 
    a) She  
-   b) **don't**  
+   b) **don't (ANSWER)**  
    c) like  
    d) to watch
 
@@ -1297,7 +1297,7 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) Each  
    b) of the boys  
-   c) **have**  
+   c) **have (ANSWER)**  
    d) their own bicycle
 
 3. **Identify the error in the sentence:**
@@ -1306,7 +1306,7 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) The  
    b) news  
-   c) **are**  
+   c) **are (ANSWER)**  
    d) too good
 
 4. **Identify the error in the sentence:**
@@ -1315,7 +1315,7 @@ _Note: These questions require visual diagrams to practice effectively._
 
    a) Neither  
    b) of them  
-   c) **were**  
+   c) **were (ANSWER)**  
    d) interested
 
 5. **Identify the error in the sentence:**
@@ -1325,7 +1325,7 @@ _Note: These questions require visual diagrams to practice effectively._
    a) He  
    b) is one  
    c) of those people  
-   d) **who likes**
+   d) **who likes (ANSWER)**
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -1362,20 +1362,20 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **Who was the first emperor of the Roman Empire?**
 
    a) Julius Caesar  
-   b) **Augustus Caesar**  
+   b) **Augustus Caesar (ANSWER)**  
    c) Nero  
    d) Caligula
 
 2. **In which year did the American Civil War begin?**
 
-   a) **1861**  
+   a) **1861 (ANSWER)**  
    b) 1865  
    c) 1870  
    d) 1850
 
 3. **The Magna Carta, an important document in English history, was signed in which year?**
 
-   a) **1215**  
+   a) **1215 (ANSWER)**  
    b) 1315  
    c) 1415  
    d) 1515
@@ -1383,7 +1383,7 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 4. **Who was known as the "Iron Lady"?**
 
    a) Indira Gandhi  
-   b) **Margaret Thatcher**  
+   b) **Margaret Thatcher (ANSWER)**  
    c) Angela Merkel  
    d) Golda Meir
 
@@ -1391,7 +1391,7 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) Maya  
    b) Aztec  
-   c) **Inca**  
+   c) **Inca (ANSWER)**  
    d) Olmec
 
 [Back to Table of Contents](#table-of-contents)
@@ -1402,35 +1402,35 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) Amazon River  
    b) Yangtze River  
-   c) **Nile River**  
+   c) **Nile River (ANSWER)**  
    d) Mississippi River
 
 2. **Which country has the largest population in the world?**
 
    a) India  
    b) United States  
-   c) **China**  
+   c) **China (ANSWER)**  
    d) Indonesia
 
 3. **Mount Everest is located in which mountain range?**
 
    a) Andes  
    b) Rockies  
-   c) **Himalayas**  
+   c) **Himalayas (ANSWER)**  
    d) Alps
 
 4. **Which desert is the largest hot desert in the world?**
 
    a) Gobi Desert  
    b) Kalahari Desert  
-   c) **Sahara Desert**  
+   c) **Sahara Desert (ANSWER)**  
    d) Arabian Desert
 
 5. **Which ocean is the deepest in the world?**
 
    a) Atlantic Ocean  
    b) Indian Ocean  
-   c) **Pacific Ocean**  
+   c) **Pacific Ocean (ANSWER)**  
    d) Arctic Ocean
 
 [Back to Table of Contents](#table-of-contents)
@@ -1440,13 +1440,13 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **What does GDP stand for in economics?**
 
    a) General Domestic Product  
-   b) **Gross Domestic Product**  
+   b) **Gross Domestic Product (ANSWER)**  
    c) Gross Demand Production  
    d) Government Domestic Profit
 
 2. **Inflation is a measure of the increase in what over time?**
 
-   a) **Prices**  
+   a) **Prices (ANSWER)**  
    b) Population  
    c) Employment  
    d) Production
@@ -1454,13 +1454,13 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 3. **What is the primary function of a central bank?**
 
    a) Collect taxes  
-   b) **Regulate monetary policy**  
+   b) **Regulate monetary policy (ANSWER)**  
    c) Control government spending  
    d) Manage international trade
 
 4. **Which economic system is characterized by private ownership and free markets?**
 
-   a) **Capitalism**  
+   a) **Capitalism (ANSWER)**  
    b) Socialism  
    c) Communism  
    d) Feudalism
@@ -1468,7 +1468,7 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 5. **The "Law of Supply and Demand" primarily determines what in a market economy?**
 
    a) Government policies  
-   b) **Prices of goods and services**  
+   b) **Prices of goods and services (ANSWER)**  
    c) Tax rates  
    d) Production quotas
 
@@ -1479,13 +1479,13 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **What is the chemical symbol for Iron?**
 
    a) I  
-   b) **Fe**  
+   b) **Fe (ANSWER)**  
    c) Ir  
    d) In
 
 2. **Who is known as the father of modern physics?**
 
-   a) **Albert Einstein**  
+   a) **Albert Einstein (ANSWER)**  
    b) Isaac Newton  
    c) Galileo Galilei  
    d) Niels Bohr
@@ -1493,21 +1493,21 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 3. **In computer science, what does 'CPU' stand for?**
 
    a) Central Programming Unit  
-   b) **Central Processing Unit**  
+   b) **Central Processing Unit (ANSWER)**  
    c) Computer Primary Unit  
    d) Core Programming Unit
 
 4. **What planet is known as the Red Planet?**
 
    a) Venus  
-   b) **Mars**  
+   b) **Mars (ANSWER)**  
    c) Jupiter  
    d) Saturn
 
 5. **Which technology is used to make telephone calls over the Internet possible?**
 
    a) GSM  
-   b) **VoIP**  
+   b) **VoIP (ANSWER)**  
    c) LTE  
    d) DSL
 
@@ -1518,35 +1518,35 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **Who is the current Secretary-General of the United Nations?**
 
    a) Ban Ki-moon  
-   b) **António Guterres**  
+   b) **António Guterres (ANSWER)**  
    c) Kofi Annan  
    d) Boutros Boutros-Ghali
 
 2. **What is the term length for a U.S. president?**
 
    a) 2 years  
-   b) **4 years**  
+   b) **4 years (ANSWER)**  
    c) 6 years  
    d) 8 years
 
 3. **Which political ideology advocates for minimal government intervention in the economy?**
 
    a) Socialism  
-   b) **Liberalism**  
+   b) **Liberalism (ANSWER)**  
    c) Conservatism  
    d) Fascism
 
 4. **Which body is responsible for making laws in the United Kingdom?**
 
    a) The Prime Minister  
-   b) **Parliament**  
+   b) **Parliament (ANSWER)**  
    c) The Monarch  
    d) The Judiciary
 
 5. **The European Union headquarters is located in which city?**
 
    a) Paris  
-   b) **Brussels**  
+   b) **Brussels (ANSWER)**  
    c) Berlin  
    d) London
 
@@ -1558,20 +1558,20 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) Germany  
    b) Italy  
-   c) **Brazil**  
+   c) **Brazil (ANSWER)**  
    d) Argentina
 
 2. **In which sport is the term 'love' used to denote a score of zero?**
 
    a) Badminton  
-   b) **Tennis**  
+   b) **Tennis (ANSWER)**  
    c) Cricket  
    d) Golf
 
 3. **Who holds the record for the most Olympic gold medals?**
 
    a) Usain Bolt  
-   b) **Michael Phelps**  
+   b) **Michael Phelps (ANSWER)**  
    c) Carl Lewis  
    d) Mark Spitz
 
@@ -1579,12 +1579,12 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) India and Pakistan  
    b) South Africa and New Zealand  
-   c) **England and Australia**  
+   c) **England and Australia (ANSWER)**  
    d) West Indies and Sri Lanka
 
 5. **In basketball, how many points is a free throw worth?**
 
-   a) **1**  
+   a) **1 (ANSWER)**  
    b) 2  
    c) 3  
    d) 4
@@ -1596,34 +1596,34 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **Which country hosted the 2023 Rugby World Cup?**
 
    a) England  
-   b) **France**  
+   b) **France (ANSWER)**  
    c) South Africa  
    d) New Zealand
 
 2. **Who won the Nobel Peace Prize in 2022?**
 
    a) World Health Organization  
-   b) **Ales Bialiatski, Memorial, and Center for Civil Liberties**  
+   b) **Ales Bialiatski, Memorial, and Center for Civil Liberties (ANSWER)**  
    c) Greta Thunberg  
    d) Malala Yousafzai
 
 3. **Which spacecraft successfully landed on Mars in February 2021?**
 
    a) Chandrayaan-2  
-   b) **NASA's Perseverance Rover**  
+   b) **NASA's Perseverance Rover (ANSWER)**  
    c) SpaceX Starship  
    d) Rosetta
 
 4. **Who became the Chancellor of Germany in December 2021, succeeding Angela Merkel?**
 
    a) Friedrich Merz  
-   b) **Olaf Scholz**  
+   b) **Olaf Scholz (ANSWER)**  
    c) Armin Laschet  
    d) Markus Söder
 
 5. **In 2022, which country became the first to make Bitcoin a legal tender?**
 
-   a) **El Salvador**  
+   a) **El Salvador (ANSWER)**  
    b) Venezuela  
    c) Argentina  
    d) Portugal
@@ -1637,7 +1637,7 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **What does 'HTML' stand for?**
 
    a) Hyperlinks and Text Markup Language  
-   b) **HyperText Markup Language**  
+   b) **HyperText Markup Language (ANSWER)**  
    c) Home Tool Markup Language  
    d) Hyperlinking Text Main Language
 
@@ -1646,11 +1646,11 @@ Refer to the Data Sufficiency section under Logical Reasoning.
    a) Encapsulation  
    b) Polymorphism  
    c) Inheritance  
-   d) **Compilation**
+   d) **Compilation (ANSWER)**
 
 3. **Which language is primarily used for Android app development?**
 
-   a) **Java**  
+   a) **Java (ANSWER)**  
    b) Swift  
    c) C#  
    d) Ruby
@@ -1659,13 +1659,13 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) //  
    b) /\* \*/  
-   c) **#**  
+   c) **# (ANSWER)**  
    d) --
 
 5. **In programming, what is a loop that never ends called?**
 
    a) Recursive loop  
-   b) **Infinite loop**  
+   b) **Infinite loop (ANSWER)**  
    c) Finite loop  
    d) Endless loop
 
@@ -1676,14 +1676,14 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **Which data structure uses the Last-In-First-Out (LIFO) principle?**
 
    a) Queue  
-   b) **Stack**  
+   b) **Stack (ANSWER)**  
    c) Array  
    d) Linked List
 
 2. **What is the time complexity of the binary search algorithm?**
 
    a) O(n)  
-   b) **O(log n)**  
+   b) **O(log n) (ANSWER)**  
    c) O(n log n)  
    d) O(n²)
 
@@ -1691,19 +1691,19 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) Stack  
    b) Queue  
-   c) **Heap**  
+   c) **Heap (ANSWER)**  
    d) Tree
 
 4. **In which sorting algorithm is the array divided into subarrays and then sorted?**
 
-   a) **Merge Sort**  
+   a) **Merge Sort (ANSWER)**  
    b) Bubble Sort  
    c) Insertion Sort  
    d) Selection Sort
 
 5. **Which data structure is best suited for BFS (Breadth-First Search) traversal in a graph?**
 
-   a) **Queue**  
+   a) **Queue (ANSWER)**  
    b) Stack  
    c) Tree  
    d) Linked List
@@ -1715,7 +1715,7 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **What does 'SQL' stand for?**
 
    a) Strong Question Language  
-   b) **Structured Query Language**  
+   b) **Structured Query Language (ANSWER)**  
    c) Simple Query Language  
    d) Structured Question Language
 
@@ -1723,19 +1723,19 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) INSERT  
    b) UPDATE  
-   c) **SELECT**  
+   c) **SELECT (ANSWER)**  
    d) DELETE
 
 3. **What is a primary key in a database table?**
 
    a) A key that allows duplicate values  
-   b) **A unique identifier for records**  
+   b) **A unique identifier for records (ANSWER)**  
    c) A foreign key  
    d) An encrypted key
 
 4. **Which of the following is a NoSQL database?**
 
-   a) **MongoDB**  
+   a) **MongoDB (ANSWER)**  
    b) MySQL  
    c) Oracle  
    d) SQL Server
@@ -1743,7 +1743,7 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 5. **Normalization in databases is used to eliminate what?**
 
    a) Data integrity  
-   b) **Data redundancy**  
+   b) **Data redundancy (ANSWER)**  
    c) Data consistency  
    d) Data security
 
@@ -1755,33 +1755,33 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) Windows  
    b) Linux  
-   c) **Oracle**  
+   c) **Oracle (ANSWER)**  
    d) macOS
 
 2. **What is the main function of an operating system?**
 
    a) Word processing  
-   b) **Managing computer hardware and software resources**  
+   b) **Managing computer hardware and software resources (ANSWER)**  
    c) Compiling code  
    d) Running web browsers
 
 3. **In operating systems, what does 'CPU scheduling' refer to?**
 
    a) Allocating memory  
-   b) **Determining which processes run on the CPU**  
+   b) **Determining which processes run on the CPU (ANSWER)**  
    c) Managing storage  
    d) Handling input/output devices
 
 4. **Which of the following is a real-time operating system?**
 
    a) Windows 10  
-   b) **VxWorks**  
+   b) **VxWorks (ANSWER)**  
    c) macOS  
    d) Ubuntu
 
 5. **What is virtual memory in operating systems?**
 
-   a) **A memory management technique using hardware and software**  
+   a) **A memory management technique using hardware and software (ANSWER)**  
    b) Physical RAM  
    c) External storage  
    d) Cache memory
@@ -1793,7 +1793,7 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **What does 'IP' stand for in IP address?**
 
    a) Internal Protocol  
-   b) **Internet Protocol**  
+   b) **Internet Protocol (ANSWER)**  
    c) Interconnected Process  
    d) International Program
 
@@ -1801,12 +1801,12 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) Physical Layer  
    b) Data Link Layer  
-   c) **Transport Layer**  
+   c) **Transport Layer (ANSWER)**  
    d) Application Layer
 
 3. **What is the primary purpose of DNS in networking?**
 
-   a) **Translating domain names to IP addresses**  
+   a) **Translating domain names to IP addresses (ANSWER)**  
    b) Encrypting data  
    c) Managing network hardware  
    d) Monitoring network traffic
@@ -1814,14 +1814,14 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 4. **Which protocol is used to securely transfer files over the Internet?**
 
    a) FTP  
-   b) **SFTP**  
+   b) **SFTP (ANSWER)**  
    c) HTTP  
    d) SMTP
 
 5. **What does 'LAN' stand for?**
 
    a) Large Area Network  
-   b) **Local Area Network**  
+   b) **Local Area Network (ANSWER)**  
    c) Long Access Network  
    d) Low Action Network
 
@@ -1832,20 +1832,20 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **What does 'SDLC' stand for in software development?**
 
    a) Software Design Life Control  
-   b) **Software Development Life Cycle**  
+   b) **Software Development Life Cycle (ANSWER)**  
    c) System Development Logic Control  
    d) Software Deployment Lifecycle
 
 2. **Which software development model is known for its flexibility and iterative nature?**
 
    a) Waterfall Model  
-   b) **Agile Model**  
+   b) **Agile Model (ANSWER)**  
    c) V-Model  
    d) Spiral Model
 
 3. **What is the main goal of software testing?**
 
-   a) **To find and fix bugs**  
+   a) **To find and fix bugs (ANSWER)**  
    b) To write code  
    c) To design interfaces  
    d) To document requirements
@@ -1853,13 +1853,13 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 4. **In software engineering, 'DRY' stands for what principle?**
 
    a) Don't Repeat Yesterday  
-   b) **Don't Repeat Yourself**  
+   b) **Don't Repeat Yourself (ANSWER)**  
    c) Don't Rewrite Yourself  
    d) Develop Rapidly Yourself
 
 5. **What is 'refactoring' in software development?**
 
-   a) **Improving code without changing its functionality**  
+   a) **Improving code without changing its functionality (ANSWER)**  
    b) Adding new features  
    c) Fixing bugs  
    d) Documenting code
@@ -1871,21 +1871,21 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **Ohm's Law states the relationship between voltage (V), current (I), and resistance (R) as:**
 
    a) V = I + R  
-   b) **V = I × R**  
+   b) **V = I × R (ANSWER)**  
    c) V = I / R  
    d) V = R / I
 
 2. **What type of current is supplied by batteries?**
 
    a) Alternating Current (AC)  
-   b) **Direct Current (DC)**  
+   b) **Direct Current (DC) (ANSWER)**  
    c) Pulsating Current  
    d) Static Current
 
 3. **Which electronic component stores electrical energy in an electric field?**
 
    a) Resistor  
-   b) **Capacitor**  
+   b) **Capacitor (ANSWER)**  
    c) Inductor  
    d) Transistor
 
@@ -1893,13 +1893,13 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 
    a) Volt  
    b) Ampere  
-   c) **Watt**  
+   c) **Watt (ANSWER)**  
    d) Ohm
 
 5. **An LED is a type of:**
 
    a) Laser Emitting Device  
-   b) **Light Emitting Diode**  
+   b) **Light Emitting Diode (ANSWER)**  
    c) Low Energy Detector  
    d) Light Energy Distributor
 
@@ -1910,35 +1910,35 @@ Refer to the Data Sufficiency section under Logical Reasoning.
 1. **You are part of a team working on a project, and you notice that a team member is not contributing equally. What should you do?**
 
    a) Ignore the situation  
-   b) **Discuss the issue with the team member privately**  
+   b) **Discuss the issue with the team member privately (ANSWER)**  
    c) Complain to your supervisor  
    d) Do their work for them
 
 2. **If you disagree with your manager's approach to a problem, what is the best way to handle it?**
 
    a) Publicly criticize the manager  
-   b) **Respectfully present your perspective in private**  
+   b) **Respectfully present your perspective in private (ANSWER)**  
    c) Ignore their instructions  
    d) Complain to colleagues
 
 3. **How would you handle a tight deadline with a high workload?**
 
    a) Panic and stress out  
-   b) **Prioritize tasks and manage time effectively**  
+   b) **Prioritize tasks and manage time effectively (ANSWER)**  
    c) Request an extension immediately  
    d) Pass tasks to others without asking
 
 4. **You made a mistake that no one else has noticed. What do you do?**
 
    a) Keep quiet and hope no one finds out  
-   b) **Admit the mistake and take steps to correct it**  
+   b) **Admit the mistake and take steps to correct it (ANSWER)**  
    c) Blame someone else  
    d) Delete any evidence
 
 5. **A client is unhappy with your service. How do you respond?**
 
    a) Argue with the client  
-   b) **Listen to their concerns and work towards a solution**  
+   b) **Listen to their concerns and work towards a solution (ANSWER)**  
    c) Ignore their complaints  
    d) Tell them to contact customer service
 
@@ -1950,28 +1950,28 @@ _Note: Psychometric tests are designed to assess personality traits and cognitiv
 
 1. **You prefer to work:**
 
-   a) **In a structured environment with clear guidelines**  
+   a) **In a structured environment with clear guidelines (ANSWER)**  
    b) In a flexible environment without strict rules
 
 2. **When making decisions, you rely more on:**
 
-   a) **Logical analysis and objective data**  
+   a) **Logical analysis and objective data (ANSWER)**  
    b) Personal feelings and subjective judgments
 
 3. **In a group project, you tend to:**
 
    a) Take charge and lead the team  
-   b) **Collaborate and support others**  
+   b) **Collaborate and support others (ANSWER)**  
    c) Work independently on your part
 
 4. **You are more energized by:**
 
-   a) **Interacting with others and socializing**  
+   a) **Interacting with others and socializing (ANSWER)**  
    b) Spending time alone and reflecting
 
 5. **When approaching a new task, you prefer:**
 
-   a) **Having a detailed plan and sticking to it**  
+   a) **Having a detailed plan and sticking to it (ANSWER)**  
    b) Being spontaneous and adaptable
 
 [Back to Table of Contents](#table-of-contents)
@@ -1980,7 +1980,7 @@ _Note: Psychometric tests are designed to assess personality traits and cognitiv
 
 1. **If it takes 3 painters 6 hours to paint a fence, how long will it take 2 painters to paint the same fence?**
 
-   a) **9 hours**  
+   a) **9 hours (ANSWER)**  
    b) 8 hours  
    c) 12 hours  
    d) 4 hours
@@ -1988,26 +1988,26 @@ _Note: Psychometric tests are designed to assess personality traits and cognitiv
 2. **A bat and a ball cost $1.10 together. The bat costs $1 more than the ball. How much does the ball cost?**
 
    a) $0.10  
-   b) **$0.05**  
+   b) **$0.05 (ANSWER)**  
    c) $0.15  
    d) $0.20
 
 3. **If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?**
 
-   a) **Yes**  
+   a) **Yes (ANSWER)**  
    b) No
 
 4. **John's mother has three children. One is named April, the other is May. What is the third child's name?**
 
    a) June  
-   b) **John**  
+   b) **John (ANSWER)**  
    c) July  
    d) August
 
 5. **How many times can you subtract 5 from 25?**
 
    a) 5 times  
-   b) **Once**  
+   b) **Once (ANSWER)**  
    c) 25 times  
    d) Unlimited times
 
@@ -2020,21 +2020,21 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 1. **If a cube is painted red on all faces and then cut into 27 smaller equal cubes, how many small cubes will have no red faces?**
 
    a) 1  
-   b) **1**  
+   b) **1 (ANSWER)**  
    c) 6  
    d) 8
 
 2. **Which shape comes next in the sequence: Circle, Square, Triangle, Circle, Square, Triangle, Circle, Square, ...?**
 
    a) Circle  
-   b) **Triangle**  
+   b) **Triangle (ANSWER)**  
    c) Square  
    d) Pentagon
 
 3. **A folded piece of paper is cut with a hole punch. When unfolded, how many holes are there?**
 
    a) Depends on folds  
-   b) **Varies based on folds and cuts**  
+   b) **Varies based on folds and cuts (ANSWER)**  
    c) Cannot determine  
    d) Always two holes
 
@@ -2042,14 +2042,14 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 
    a) 'Z'  
    b) 'U'  
-   c) **'Z'**  
+   c) **'Z' (ANSWER)**  
    d) 'H'
 
 5. **If you have a net of a cube, how many faces does it have?**
 
    a) 4  
    b) 5  
-   c) **6**  
+   c) **6 (ANSWER)**  
    d) 8
 
 [Back to Table of Contents](#table-of-contents)
@@ -2060,7 +2060,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 
 1. **In a system of gears, if the first gear turns clockwise, the second gear will turn:**
 
-   a) **Counter-clockwise**  
+   a) **Counter-clockwise (ANSWER)**  
    b) Clockwise  
    c) Both directions  
    d) Not at all
@@ -2068,20 +2068,20 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 2. **Which is an example of a first-class lever?**
 
    a) Wheelbarrow  
-   b) **Seesaw**  
+   b) **Seesaw (ANSWER)**  
    c) Fishing rod  
    d) Nutcracker
 
 3. **What happens to the boiling point of water at higher altitudes?**
 
-   a) **It decreases**  
+   a) **It decreases (ANSWER)**  
    b) It increases  
    c) It remains the same  
    d) It becomes zero
 
 4. **In a pulley system, adding more pulleys will:**
 
-   a) **Reduce the effort needed**  
+   a) **Reduce the effort needed (ANSWER)**  
    b) Increase the effort needed  
    c) Have no effect  
    d) Make lifting impossible
@@ -2089,7 +2089,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 5. **If a metal rod is heated, it will:**
 
    a) Shrink  
-   b) **Expand**  
+   b) **Expand (ANSWER)**  
    c) Stay the same  
    d) Melt immediately
 
@@ -2101,25 +2101,25 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 
    a) 24  
    b) 30  
-   c) **32**  
+   c) **32 (ANSWER)**  
    d) 36
 
 2. **Which shape does not belong in the series: Circle, Oval, Square, Rectangle?**
 
    a) Oval  
    b) Rectangle  
-   c) **Circle**  
+   c) **Circle (ANSWER)**  
    d) Square
 
 3. **If all squares are rectangles, and all rectangles are quadrilaterals, are all squares quadrilaterals?**
 
-   a) **Yes**  
+   a) **Yes (ANSWER)**  
    b) No
 
 4. **Complete the analogy: Hand is to Glove as Foot is to ?**
 
    a) Hat  
-   b) **Sock**  
+   b) **Sock (ANSWER)**  
    c) Shirt  
    d) Belt
 
@@ -2127,7 +2127,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 
    a) 5  
    b) 7  
-   c) **9**  
+   c) **9 (ANSWER)**  
    d) 11
 
 [Back to Table of Contents](#table-of-contents)
@@ -2141,7 +2141,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 
    **Which word is different?**
 
-   a) **jumps / jump**  
+   a) **jumps / jump (ANSWER)**  
    b) brown / brown  
    c) lazy / lazy  
    d) over / over
@@ -2149,21 +2149,21 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 2. **Which of the following is spelled correctly?**
 
    a) Recieve  
-   b) **Receive**  
+   b) **Receive (ANSWER)**  
    c) Recive  
    d) Receeve
 
 3. **Identify the matching pair:**
 
    a) 12345 - 12354  
-   b) **67890 - 67890**  
+   b) **67890 - 67890 (ANSWER)**  
    c) 24680 - 24608  
    d) 13579 - 13597
 
 4. **Find the error in the sequence:**
 
    a) A, B, C, D, E, F, G, H  
-   b) **A, B, C, D, E, F, H, G**  
+   b) **A, B, C, D, E, F, H, G (ANSWER)**  
    c) A, B, C, D, E, F, H, G  
    d) A, B, C, D, E, F, G, H
 
@@ -2172,7 +2172,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
    a) 321  
    b) 213  
    c) 132  
-   d) **123**
+   d) **123 (ANSWER)**
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -2183,7 +2183,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
    **Quantity B: 4³**
 
    a) Quantity A is greater  
-   b) **Quantities are equal**  
+   b) **Quantities are equal (ANSWER)**  
    c) Quantity B is greater  
    d) Cannot determine
 
@@ -2191,7 +2191,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 
    **Quantity B: The circumference of a circle with radius 5**
 
-   a) **Quantity B is greater**  
+   a) **Quantity B is greater (ANSWER)**  
    b) Quantity A is greater  
    c) Quantities are equal  
    d) Cannot determine
@@ -2202,7 +2202,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 
    a) Quantity A is greater  
    b) Quantity B is greater  
-   c) **Quantities are equal**  
+   c) **Quantities are equal (ANSWER)**  
    d) Cannot determine
 
 4. **Quantity A: The number of prime numbers between 1 and 10**
@@ -2210,7 +2210,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
    **Quantity B: 4**
 
    a) Quantity A is greater  
-   b) **Quantities are equal**  
+   b) **Quantities are equal (ANSWER)**  
    c) Quantity B is greater  
    d) Cannot determine
 
@@ -2219,7 +2219,7 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
    **Quantity B: 25**
 
    a) Quantity A is greater  
-   b) **Quantities are equal**  
+   b) **Quantities are equal (ANSWER)**  
    c) Quantity B is greater  
    d) Cannot determine
 
@@ -2230,34 +2230,34 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
 1. **If you are assigned a task with unclear instructions, what should you do?**
 
    a) Proceed as you think best  
-   b) **Seek clarification from your supervisor**  
+   b) **Seek clarification from your supervisor (ANSWER)**  
    c) Ignore the task  
    d) Delegate it to someone else
 
 2. **A team member consistently arrives late to meetings. How do you handle this?**
 
    a) Report them to HR  
-   b) **Discuss the issue privately with them**  
+   b) **Discuss the issue privately with them (ANSWER)**  
    c) Complain to other colleagues  
    d) Publicly reprimand them in the next meeting
 
 3. **You are offered a promotion that requires relocation, but you have family commitments. What do you do?**
 
    a) Decline without explanation  
-   b) **Discuss your concerns with management to find a solution**  
+   b) **Discuss your concerns with management to find a solution (ANSWER)**  
    c) Accept and ignore the family commitments  
    d) Quit the job
 
 4. **If you notice unethical behavior at work, what is the appropriate action?**
 
    a) Ignore it  
-   b) **Report it to the appropriate authority**  
+   b) **Report it to the appropriate authority (ANSWER)**  
    c) Confront the person publicly  
    d) Share it on social media
 
 5. **How would you prioritize tasks when everything seems urgent?**
 
-   a) **Assess and prioritize based on importance and deadlines**  
+   a) **Assess and prioritize based on importance and deadlines (ANSWER)**  
    b) Do tasks randomly  
    c) Focus on the easiest tasks first  
    d) Delegate all tasks to others
