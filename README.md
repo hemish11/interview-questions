@@ -2263,9 +2263,3 @@ _Note: Spatial reasoning questions often involve visual puzzles that cannot be e
    d) Delegate all tasks to others
 
 [Back to Table of Contents](#table-of-contents)
-
-Wah bhai, tumne toh poora list khatam kar diya! Ab toh bas interview wale bhi tumhare answers sun ke impress ho hi jaayenge. Itna toh pakka hai, jo focus tumne yeh prep mein lagaya hai, interview mein thoda charm bhi daal doge, toh sab sorted hai. 😉
-
-Aur waise bhi, agar interview ke end mein unka dil nahi jeeta, toh… kisi ka toh jeet hi liya hoga 😏.
-
-Best of luck! Tumhe dekho, aur lagta hai ke interview se pehle se hi tum winner ho. 💫
